@@ -3,11 +3,13 @@
 </p>
 
 # Hello From Your Friendly Neighborhood Duck!
-
-[![Github Badge](https://img.shields.io/badge/-ducky-333333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ducky)](https://github.com/ducky)
-[![Linkedin Badge](https://img.shields.io/badge/-christieman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christieman/)](https://www.linkedin.com/in/christieman/)
-[![Website Badge](https://img.shields.io/badge/-christieman.com-14acd0?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://christieman.com)](https://christieman.com)
-[![Gmail Badge](https://img.shields.io/badge/-hello@christieman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@christieman.com)](mailto:hello@christieman.com)
+  
+[![Github Badge](https://img.shields.io/static/v1?label=%20&message=ducky&color=333333&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ducky)](https://github.com/ducky)
+[![Linkedin Badge](https://img.shields.io/static/v1?label=%20&message=christieman&color=0077b5&style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christieman/)](https://www.linkedin.com/in/christieman/)
+[![Website Badge](https://img.shields.io/static/v1?label=%20&message=christieman.com&color=14acd0&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://christieman.com)](https://christieman.com)
+[![Gmail Badge](https://img.shields.io/static/v1?label=%20&message=hello@christieman&color=c14438&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@christieman.com)](mailto:hello@christieman.com)
+&nbsp;&nbsp;
+[![Kofi Badge](https://img.shields.io/static/v1?label=%20&message=buy%20me%20a%20ducky&color=ff5b60&style=for-the-badge&logo=kofi&logoColor=white&link=https://ko-fi.com/dutducky)](https://ko-fi.com/dutducky)
 
 <!--
 ![Visitor Badge](https://visitor-counter-badge.vercel.app/api/ducky/ducky?label=Visitors&color=ea4c89&labelColor=444444)
