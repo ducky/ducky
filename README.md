@@ -9,6 +9,11 @@
 [![Website Badge](https://img.shields.io/badge/-christieman.com-14acd0?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://christieman.com)](https://christieman.com)
 [![Gmail Badge](https://img.shields.io/badge/-hello@christieman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@christieman.com)](mailto:hello@christieman.com)
 
+<!--
+![Visitor Badge](https://visitor-counter-badge.vercel.app/api/ducky/ducky?label=Visitors&color=ea4c89&labelColor=444444)
+-->
+
+
 Chris Tieman here, and thanks for stopping by. I’m a 30-something Developer, Designer, and proud father of 3 furry children located in the heart of Fishers, Indiana. It's also quite known by my friends that I have an unhealthy obsession with ducks.
 
 I enjoy making apps, websites, and many other fun web tools. Creating things that both intrigue me and bring joy to others has been an increasingly worthwhile pursuit as my skills have grown.
