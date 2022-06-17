@@ -5,7 +5,7 @@
 # Hello From Your Friendly Neighborhood Duck!
 
 [![Github Badge](https://img.shields.io/badge/-ducky-333333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ducky)](https://github.com/ducky)
-[![Linkedin Badge](https://img.shields.io/badge/-chris.tieman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris.tieman/)](https://www.linkedin.com/in/chris.tieman/)
+[![Linkedin Badge](https://img.shields.io/badge/-christieman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christieman/)](https://www.linkedin.com/in/christieman/)
 [![Website Badge](https://img.shields.io/badge/-christieman.com-14acd0?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://christieman.com)](https://christieman.com)
 [![Gmail Badge](https://img.shields.io/badge/-hello@christieman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@christieman.com)](mailto:hello@christieman.com)
 
