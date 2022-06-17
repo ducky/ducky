@@ -41,15 +41,13 @@ Take your agile/scrum backlog estimation to a whole new level. No more yelling o
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducky&show_icons=true&theme=dark&count_private=true" />
-</p>
+<a href="https://github-readme-stats.vercel.app/api?username=ducky&theme=tokyonight&show_icons=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ducky&theme=tokyonight&show_icons=true&count_private=true" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducky&theme=dark&layout=compact" />
-</p>
-
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ducky&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducky&theme=tokyonight" />
+</a>
 
 <!--
 **ducky/ducky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
