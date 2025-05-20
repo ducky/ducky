@@ -43,7 +43,7 @@ Take your agile/scrum backlog estimation to a whole new level. No more yelling o
 
 ## Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=ducky&theme=tokyonight&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=ducky&theme=tokyonight&show_icons=true&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ducky&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
 
